@@ -1,0 +1,21 @@
+@font-face {
+   font-family: 'Passion One';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/Mihai/Desktop/New%20folder/fonts/Passion One/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Passion One';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/Mihai/Desktop/New%20folder/fonts/Passion One/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Passion One';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Mihai/Desktop/New%20folder/fonts/Passion One/regular.ttf') format('truetype');
+}
